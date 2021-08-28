@@ -6,7 +6,7 @@
 /*   By: dienasci <dienasci@student.42sp.org.br >   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/08/24 17:05:44 by dienasci          #+#    #+#             */
-/*   Updated: 2021/08/24 18:53:19 by dienasci         ###   ########.fr       */
+/*   Updated: 2021/08/28 14:22:10 by dienasci         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 # include <unistd.h>
 # include <limits.h>
 # include <stdlib.h>
-# define OPEN_MAX 1024
 # ifndef BUFFER_SIZE
 #  define BUFFER_SIZE 32
 # endif
